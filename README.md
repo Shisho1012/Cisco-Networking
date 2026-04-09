@@ -24,7 +24,3 @@
 - Notas y resúmenes del módulo  
 
 ---
-
-> 💡 Nota: Solo se incluyen prácticas realizadas por mí, sin copiar teoría protegida por copyright.
-
-
