@@ -22,7 +22,6 @@ Documentar mi progreso práctico en redes, desarrollando habilidades fundamental
 ## 🗂️ Estructura de cada módulo
 
 Cada carpeta incluye:
-- 📁 Archivos de laboratorio (.pka)
 - 📸 Capturas de pantalla de la configuración
 - 📝 Notas explicando el proceso realizado
 - 📊 Resultados de pruebas (ping, conectividad, etc.)
