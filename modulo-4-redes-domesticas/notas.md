@@ -17,5 +17,4 @@ Configurar un router y un cliente en Cisco Packet Tracer para implementar una re
 - No se presentaron pérdidas de paquetes en la comunicación.
 
 ## Observaciones
-Aprendí a configurar direccionamiento IP (estático y dinámico mediante DHCP) y a verificar la conectividad básica en una red doméstica.
-También aprendí la diferencia entre conexión cableada e inalámbrica y cómo configurar seguridad WPA2 en una red doméstica.
+Aprendí a configurar direccionamiento IP (estático y dinámico mediante DHCP); a verificar la conectividad básica en una red doméstica, la diferencia entre conexión cableada e inalámbrica y cómo configurar seguridad WPA2 en una red doméstica.
