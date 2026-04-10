@@ -8,7 +8,7 @@ Documentar mi progreso práctico en redes, desarrollando habilidades fundamental
 
 | Módulo | Descripción |
 |--------|-------------|
-| Módulo 4 – Redes domésticas | Configuración de routers y clientes en red doméstica |
+| [Módulo 4 – Redes domésticas](./modulo-4-redes-domesticas) | Configuración de routers y clientes en red doméstica |
 | Módulo 8 – Conectarse a servidores | Acceso a servidores web usando Packet Tracer |
 | Módulo 11 – DHCP | Configuración de asignación dinámica de IP |
 | Módulo 12 – NAT y gateways | Configuración de NAT y puertas de enlace |
