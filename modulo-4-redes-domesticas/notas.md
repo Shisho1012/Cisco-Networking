@@ -8,6 +8,8 @@ Configurar un router y un cliente en Cisco Packet Tracer para implementar una re
 2. Configuré direccionamiento IP estático en el cliente (IP, máscara de subred y puerta de enlace).
 3. Probé la conectividad entre dispositivos utilizando el comando `ping`.
 4. Verifiqué el funcionamiento del servicio DHCP en el router.
+5. Configuré la red inalámbrica con SSID y seguridad WPA2 Personal.
+6. Conecté la laptop por WiFi y verifiqué conectividad a Internet.
 
 ## Resultados
 - El cliente obtuvo una dirección IP válida.
@@ -16,3 +18,4 @@ Configurar un router y un cliente en Cisco Packet Tracer para implementar una re
 
 ## Observaciones
 Aprendí a configurar direccionamiento IP (estático y dinámico mediante DHCP) y a verificar la conectividad básica en una red doméstica.
+También aprendí la diferencia entre conexión cableada e inalámbrica y cómo configurar seguridad WPA2 en una red doméstica.
