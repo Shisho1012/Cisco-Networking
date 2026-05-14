@@ -45,9 +45,8 @@ Configurar un router y un cliente en Cisco Packet Tracer para implementar una re
 
 ## 📁 Archivos en este módulo
 
-- `notas.md` - Documentación detallada del proceso
 - `screenshots.md` - Capturas de pantalla de la configuración
-- `README.md` - Este archivo (guía rápida)
+- `README.md` - Documentación detallada del proceso
 
 ---
 
