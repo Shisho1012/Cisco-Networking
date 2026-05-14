@@ -55,4 +55,3 @@ Este repositorio es parte de mi preparación para:
 
 ---
 
-**Última actualización:** 2026-05-14
