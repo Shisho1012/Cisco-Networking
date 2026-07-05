@@ -37,15 +37,6 @@ Cada carpeta incluye:
 
 ---
 
-## 📚 Cómo usar este repositorio
-
-1. Explora cada módulo en su carpeta correspondiente
-2. Lee las notas (`notas.md`) para entender el proceso
-3. Revisa las capturas (`screenshots.md`) para ver la configuración
-4. Estudia los resultados de pruebas para validar conceptos
-
----
-
 ## 🎓 Propósito académico
 
 Este repositorio es parte de mi preparación para:
