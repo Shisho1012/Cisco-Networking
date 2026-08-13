@@ -32,7 +32,7 @@ La documentación y evidencias están disponibles en:
 
 ➡️ [Capítulo 1 — Red doméstica](./modulo-4-redes-domesticas)
 
-## Herramientas
+## Herramientas y tecnologías
 
 - Cisco Packet Tracer
 - Git y GitHub
