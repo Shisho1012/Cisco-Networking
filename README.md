@@ -1,48 +1,54 @@
-# 💻 Cisco Networks – Prácticas de Networking
+# Cisco Networking Fundamentals
 
-## 🎯 Objetivo del repositorio
+Repositorio de aprendizaje y prácticas del curso **Conceptos básicos de redes** de Cisco Networking Academy.
 
-Documentar mi progreso práctico en redes usando Cisco Packet Tracer, desarrollando habilidades fundamentales en configuración, conectividad y diagnóstico de redes, como base para la certificación AWS Solutions Architect Associate.
+El objetivo es adquirir fundamentos de redes aplicables posteriormente a arquitecturas cloud en AWS, especialmente direccionamiento IP, subredes, enrutamiento, protocolos y diagnóstico de conectividad.
 
----
+## Progreso actual
 
-## 📂 Contenido del repositorio
+**Módulos 1–7 y sus exámenes de punto de control completados.**
 
-| Módulo | Descripción | Estado |
-|--------|-------------|--------|
-| [Módulo 4 – Redes domésticas](./modulo-4-redes-domesticas) | Configuración de routers y clientes en red doméstica | ✅ Completado |
-| Módulo 8 – Conectarse a servidores | Acceso a servidores web usando Packet Tracer | ⏳ En progreso |
-| Módulo 11 – DHCP | Configuración de asignación dinámica de IP | ⏳ En progreso |
-| Módulo 12 – NAT y gateways | Configuración de NAT y puertas de enlace | ⏳ En progreso |
-| Módulo 13 – IP y MAC | Identificación de direcciones en la red | ⏳ En progreso |
-| Módulo 14 – LAN y tráfico | Creación de LAN y análisis de tráfico | ⏳ En progreso |
-| Módulo 16 – Servicios de red | Uso de FTP, SSH, Telnet y HTTP | ⏳ En progreso |
-| Módulo 17 – Diagnóstico | Uso de ping e ipconfig para troubleshooting | ⏳ En progreso |
+| Capítulo | Módulos | Contenido | Estado |
+|---|---:|---|---|
+| [1. Construya una red pequeña](./modulo-4-redes-domesticas) | 1–4 | Dispositivos, conexiones, redes inalámbricas y configuración de una red doméstica | ✅ Completado |
+| 2. Acceso a la red | 5–7 | Comunicación, medios de red y capa de acceso | ✅ Completado |
+| 3. El Protocolo de Internet | 8–11 | IPv4, segmentación, IPv6 y DHCP | ⏳ Pendiente |
+| 4. Comunicación entre redes | 12–14 | Gateway, ARP y enrutamiento | ⏳ Pendiente |
+| 5. Protocolos para tareas específicas | 15–17 | TCP/UDP, servicios de aplicación y diagnóstico | ⏳ Pendiente |
 
----
+## Prácticas documentadas
 
-## 🗂️ Estructura de cada módulo
+### Red doméstica
 
-Cada carpeta incluye:
-- 📸 **Capturas de pantalla** de la configuración en Packet Tracer
-- 📝 **Notas detalladas** explicando el proceso realizado
-- 📊 **Resultados de pruebas** (ping, conectividad, diagnóstico, etc.)
+Configuración de una red doméstica funcional mediante Cisco Packet Tracer:
 
----
+- Direccionamiento IPv4.
+- Configuración de DHCP.
+- Puerta de enlace predeterminada.
+- Red inalámbrica con WPA2.
+- Pruebas de conectividad mediante `ping`.
 
-## 🛠️ Herramientas utilizadas
+La documentación y evidencias están disponibles en:
 
-- **Cisco Packet Tracer** - Simulador de redes
-- **Tecnologías**: IPv4, DHCP, Routing, Switching, Wireless, NAT
+➡️ [Capítulo 1 — Red doméstica](./modulo-4-redes-domesticas)
 
----
+## Herramientas
 
-## 🎓 Propósito académico
+- Cisco Packet Tracer
+- Git y GitHub
+- IPv4 e IPv6
+- DHCP
+- Switching y routing
+- Protocolos TCP/IP
+- Herramientas de diagnóstico
 
-Este repositorio es parte de mi preparación para:
-- ✅ Fortalecer fundamentos de networking
-- ✅ Certificación AWS Solutions Architect Associate
-- ✅ Roles de Cloud Engineer / DevOps Engineer
+## Relación con cloud
 
----
+Estos fundamentos servirán como base para estudiar posteriormente:
 
+- Amazon VPC
+- Subredes públicas y privadas
+- Tablas de rutas
+- Internet Gateway y NAT Gateway
+- Security Groups y NACL
+- Balanceadores y conectividad en AWS
