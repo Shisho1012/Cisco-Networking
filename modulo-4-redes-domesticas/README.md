@@ -2,58 +2,54 @@
 
 ## 🎯 Objetivo
 
-Configurar un router y un cliente en Cisco Packet Tracer para implementar una red doméstica funcional, aprendiendo los conceptos básicos de direccionamiento IP, DHCP y conectividad inalámbrica.
+Configurar una red doméstica funcional en Cisco Packet Tracer mediante direccionamiento IPv4, DHCP, conectividad inalámbrica y pruebas de comunicación entre dispositivos.
 
 ---
 
 ## 📋 Pasos realizados
 
 | # | Paso | Descripción |
-|---|------|-------------|
-| 1 | Conexión de dispositivos | Conecté el router y el cliente en Cisco Packet Tracer |
-| 2 | Direccionamiento IP estático | Configuré IP, máscara de subred y puerta de enlace en el cliente |
-| 3 | Prueba de conectividad | Verifiqué ping exitoso entre dispositivos |
-| 4 | Configuración DHCP | Habilité y verifiqué funcionamiento del servicio DHCP en router |
-| 5 | Red inalámbrica | Configuré SSID y seguridad WPA2 Personal |
-| 6 | Conexión WiFi | Conecté laptop por WiFi y verifiqué conectividad a Internet |
+|---:|---|---|
+| 1 | Conexión de dispositivos | Conecté el router y los dispositivos cliente en Cisco Packet Tracer |
+| 2 | Direccionamiento IPv4 estático | Configuré dirección IP, máscara de subred y puerta de enlace |
+| 3 | Prueba de conectividad | Verifiqué la comunicación entre dispositivos mediante `ping` |
+| 4 | Configuración de DHCP | Habilité y comprobé la asignación automática de direcciones IP |
+| 5 | Configuración inalámbrica | Configuré el SSID y la seguridad WPA2 Personal |
+| 6 | Conexión Wi-Fi | Conecté una laptop a la red inalámbrica y comprobé su conectividad |
 
 ---
 
 ## ✅ Resultados obtenidos
 
 | Resultado | Estado | Detalles |
-|-----------|--------|---------|
-| **Dirección IP válida** | ✅ OK | El cliente obtuvo IP del servidor DHCP |
-| **Conectividad ping** | ✅ OK | Exitosa entre router y cliente |
-| **Pérdida de paquetes** | ✅ OK | 0% pérdida en comunicación |
-| **DHCP funcional** | ✅ OK | Asignación dinámica correcta |
-| **WiFi configurado** | ✅ OK | Seguridad WPA2 implementada |
+|---|:---:|---|
+| Dirección IP válida | ✅ | El cliente obtuvo una dirección mediante DHCP |
+| Conectividad mediante `ping` | ✅ | Comunicación exitosa entre los dispositivos |
+| Pérdida de paquetes | ✅ | 0 % de pérdida durante la prueba |
+| Servicio DHCP | ✅ | Asignación dinámica funcionando correctamente |
+| Red inalámbrica | ✅ | SSID y seguridad WPA2 configurados |
 
 ---
 
 ## 💡 Conceptos aprendidos
 
-- **Direccionamiento IP**: Diferencia entre estático y dinámico (DHCP)
-- **Máscara de subred**: Cómo funciona y su importancia
-- **Puerta de enlace**: Router como intermediario entre redes
-- **Conectividad**: Validación mediante ping
-- **DHCP**: Asignación automática de direcciones IP
-- **Seguridad inalámbrica**: WPA2 Personal vs open network
-- **Cableado vs WiFi**: Ventajas y desventajas de cada uno
+- Diferencia entre direccionamiento IPv4 estático y dinámico.
+- Función de la máscara de subred.
+- Uso de la puerta de enlace para comunicarse con otras redes.
+- Asignación automática de direcciones mediante DHCP.
+- Comprobación de conectividad mediante `ping`.
+- Configuración básica de una red inalámbrica.
+- Diferencia entre una red Wi-Fi protegida y una red abierta.
 
 ---
 
-## 📁 Archivos en este módulo
+## 📸 Evidencias
 
-- `screenshots.md` - Capturas de pantalla de la configuración
-- `README.md` - Documentación detallada del proceso
+Las capturas de la topología, configuración y pruebas realizadas en Cisco Packet Tracer están disponibles en:
 
----
-
-## ⏱️ Tiempo de estudio
-
-**Duración aproximada:** 2-3 horas
+➡️ [Ver capturas de la práctica](./screenshots.md)
 
 ---
 
-**Completado:** Mayo 2026
+**Completado:** mayo de 2026  
+**Tiempo aproximado:** 2–3 horas
