@@ -11,7 +11,7 @@ El objetivo es adquirir fundamentos de redes aplicables posteriormente a arquite
 | Capítulo | Módulos | Contenido | Estado |
 |---|---:|---|---|
 | [1. Construya una red pequeña](./modulo-4-redes-domesticas) | 1–4 | Dispositivos, conexiones, redes inalámbricas y configuración de una red doméstica | ✅ Completado |
-| 2. Acceso a la red | 5–7 | Comunicación, medios de red y capa de acceso | ✅ Completado |
+| 2. Acceso a la red | 5–7 | Fundamentos teóricos de comunicación, medios de red y capa de acceso | ✅ Completado |
 | 3. El Protocolo de Internet | 8–11 | IPv4, segmentación, IPv6 y DHCP | ⏳ Pendiente |
 | 4. Comunicación entre redes | 12–14 | Gateway, ARP y enrutamiento | ⏳ Pendiente |
 | 5. Protocolos para tareas específicas | 15–17 | TCP/UDP, servicios de aplicación y diagnóstico | ⏳ Pendiente |
